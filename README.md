@@ -1,6 +1,6 @@
 #AprilTags_VS_Project  
 
-Download page £º   
+Download page :  
 http://people.csail.mit.edu/kaess/apriltags/  
 
 Fork from :  
