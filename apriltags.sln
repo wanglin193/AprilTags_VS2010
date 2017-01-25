@@ -1,0 +1,25 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "apriltags_lib", "apriltags_lib\apriltagslib.vcxproj", "{5DF2EDF5-0AC0-4826-96E8-CBEE7F6878B7}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "apriltags_demo", "apriltags_demo\apriltags_demo.vcxproj", "{F2724051-913F-3A3F-9904-DFB32BC252C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5DF2EDF5-0AC0-4826-96E8-CBEE7F6878B7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5DF2EDF5-0AC0-4826-96E8-CBEE7F6878B7}.Debug|Win32.Build.0 = Debug|Win32
+		{5DF2EDF5-0AC0-4826-96E8-CBEE7F6878B7}.Release|Win32.ActiveCfg = Release|Win32
+		{5DF2EDF5-0AC0-4826-96E8-CBEE7F6878B7}.Release|Win32.Build.0 = Release|Win32
+		{F2724051-913F-3A3F-9904-DFB32BC252C7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F2724051-913F-3A3F-9904-DFB32BC252C7}.Debug|Win32.Build.0 = Debug|Win32
+		{F2724051-913F-3A3F-9904-DFB32BC252C7}.Release|Win32.ActiveCfg = Release|Win32
+		{F2724051-913F-3A3F-9904-DFB32BC252C7}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
